@@ -3,8 +3,7 @@
 A quantitative finance tool that backtests a **Moving Average Crossover Strategy** on any stock using real historical data.
 
 ## 🚀 Live Demo
-> Deploy on [Streamlit Cloud](https://streamlit.io/cloud) — free in 2 minutes
-
+> https://hemanshi-trading-backtester.streamlit.app/
 ## 📊 Features
 - Moving Average Crossover strategy (configurable short/long SMA)
 - Real-time stock data via Yahoo Finance API
